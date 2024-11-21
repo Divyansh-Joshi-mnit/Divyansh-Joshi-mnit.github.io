@@ -2,10 +2,10 @@
 # Divyansh Joshi
 [![Divyansh Joshi](https://media.licdn.com/dms/image/D4D03AQGhDQW9VuxxbQ/profile-displayphoto-shrink_200_200/0/1694232728083?e=2147483647&v=beta&t=FScSkeuHJbq2HDzDPvwBbMhOyoDM-YPFpefXnZYyjsU)](https://github.com/Divyansh-Joshi-mnit)
 - - -
-**DOB:** 7 January 2006
-**Email:** div6982@gmail.com 
-**Phone:** +91 8000911XXX
-**GitHub:** [Divyansh-Joshi-mnit](https://github.com/Divyansh-Joshi-mnit)
+ - **DOB:** 7 January 2006
+ - **Email:** div6982@gmail.com 
+ - **Phone:** +91 8000911XXX
+ - **GitHub:** [Divyansh-Joshi-mnit](https://github.com/Divyansh-Joshi-mnit)
 ---
 ## Professional Summary
 
