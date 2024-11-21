@@ -6,7 +6,7 @@
  - **Email:** div6982@gmail.com 
  - **Phone:** +91 8000911XXX
  - **GitHub:** [Divyansh-Joshi-mnit](https://github.com/Divyansh-Joshi-mnit)
----
+- - -
 ## Professional Summary
 
 Enthusiastic and forward-thinking engineer with a strong passion for mathematics and machine learning. Skilled in Game Theory, algorithm development, and with a solid foundation in data structures and dynamic programming. Currently learning ML and deep learning while staying current with emerging trends in hardware development and technological advancements. A strategic thinker and problem solver, honed through years of mathematical problem solving. Eager to contribute to projects that push the boundaries of innovation in engineering and technology.
@@ -31,7 +31,7 @@ Enthusiastic and forward-thinking engineer with a strong passion for mathematics
 ## Education Schooling:
 
 | School/College | Year | Grade | Class |
-| --- | --- | --- | --- |
+| - - - | - - - | - - - | - - - |
 | St. Paul's Banswara | 2020-21 | 98.2% | X |
 | St. Paul's Banswara | 2022-23 | 97.2% | XII |
 | MNIT | 2023-24 | 9.16 | III-Sem |
